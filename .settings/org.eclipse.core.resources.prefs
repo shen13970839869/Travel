@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/header.html=UTF-8
+encoding//src/com/zte/pojo/Category.java=UTF-8
+encoding//src/com/zte/pojo/Favorite.java=UTF-8
+encoding//src/com/zte/pojo/ResultInfo.java=UTF-8
+encoding//src/com/zte/pojo/Route.java=UTF-8
+encoding//src/com/zte/pojo/RouteImg.java=UTF-8
+encoding//src/com/zte/pojo/Seller.java=UTF-8
+encoding//src/com/zte/pojo/User.java=UTF-8
+encoding//src/com/zte/servlet/CharchaterFilter.java=UTF-8
+encoding//src/com/zte/servlet/CheckCodeServlet.java=UTF-8
+encoding//src/com/zte/utils/JdbcUtils.java=UTF-8
+encoding//src/com/zte/utils/JedisUtil.java=UTF-8
+encoding//src/com/zte/utils/MailUtils.java=UTF-8
+encoding//src/com/zte/utils/Md5Util.java=UTF-8
+encoding/<project>=UTF-8
